@@ -1,11 +1,3 @@
-# GC06 Database Systems Coursework
+# SoShall Network
 
-The task is to build a fully functional Social Network using the AMP stack and PHP/SQL for the server side.
-The front-end will be built using Bootstrap.
-
-To Do:
-- Login System
-- User Blog
-- User Friends
-- User Messaging
-- User Photos/Collections
+A social network web application using PHP and MySQL backend and Bootstrap framework frontend.
